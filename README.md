@@ -1,6 +1,4 @@
-# Deep-Learning-Program-2018
-
-
+# Deep Learning Program 2018
 
 Code base for Deep Learning Program (2018)
 
