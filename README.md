@@ -1,82 +1,74 @@
-# Deep-Learning-Program-2018-
+# Deep-Learning-Program-2018
+
+
+
 Code base for Deep Learning Program (2018)
+
 All the implementations are in python using Numpy and Tensorflow (1.5v) Library.
 
-Also, here is list of important links for anyone who is starting into Machine Learning/Deep Learning.
-(I'll organise links soon)
+- Glossary: https://developers.google.com/machine-learning/glossary/ 
 
-Glossary: https://developers.google.com/machine-learning/glossary/ 
+- Guide to Papers: https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap 
 
- 
+- Curating arXiv: arxiv-sanity.com  
 
-Deep Learning, advanced/state-of-the-art: 
-
-Guide to Papers: https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap 
-
-Curating arXiv: arxiv-sanity.com  
-
-Summaries of Papers: http://www.shortscience.org/ 
+- Summaries of Papers: http://www.shortscience.org/ 
 
  
 
-Papers from Conferences:  
+### Papers from Conferences:  
 
-NIPS: https://nips.cc/Conferences/2016/AcceptedPapers 
+- NIPS: https://nips.cc/Conferences/2016/AcceptedPapers 
 
-ICLR: https://openreview.net/group?id=ICLR.cc/2017/conference 
+- ICLR: https://openreview.net/group?id=ICLR.cc/2017/conference 
 
-ICML: http://icml.cc/2016/?page_id=1649 
+- ICML: http://icml.cc/2016/?page_id=1649 
 
-KDD: http://www.kdd.org/kdd2016/program/accepted-papers  
+- KDD: http://www.kdd.org/kdd2016/program/accepted-papers  
 
-Blogs etc:  
+### Blogs:  
 
-Deep Learning Newsletter: http://www.wildml.com/newsletter/ 
+- Deep Learning Newsletter: http://www.wildml.com/newsletter/ 
 
-ML subreddit: https://www.reddit.com/r/MachineLearning/ 
+- ML subreddit: https://www.reddit.com/r/MachineLearning/ 
 
-Andrej Karpathy’s blog: http://karpathy.github.io/ 
+- Andrej Karpathy’s blog: http://karpathy.github.io/ 
 
-Chris Olah’s blog: http://colah.github.io/ 
+- Chris Olah’s blog: http://colah.github.io/ 
 
-https://twitter.com/dylanmckaynz/status/976368845635035138?s=19 
+- https://twitter.com/dylanmckaynz/status/976368845635035138?s=19 
 
-https://openreview.net/forum?id=Byaj2S98f 
+- https://openreview.net/forum?id=Byaj2S98f 
 
-A Ruby script to extract your Facebook data: https://gist.github.com/dylanmckay/2b191a10068bd87d0fffba242db44b52 
+- https://deepmind.com/blog/learning-to-generate-images/ 
 
- https://deepmind.com/blog/learning-to-generate-images/ 
-
-https://cloudplatform.googleblog.com/2018/03/introducing-Cloud-Text-to-Speech-powered-by-Deepmind-WaveNet-technology.html?m=1 
+- https://cloudplatform.googleblog.com/2018/03/introducing-Cloud-Text-to-Speech-powered-by-Deepmind-WaveNet-technology.html?m=1 
 
   
 
-CS50 (Harvard University): Students who have little or no knowledge of basics of programming can start by watching this video lectures. 
-
-  
+### CS50 (Harvard University): 
+*Students who have little or no knowledge of basics of programming can start by watching this video lectures. *
 
 Entire Playlist 
 
-Lecture 0 (Scratch): https://youtu.be/y62zj9ozPOM 
+* Lecture 0 (Scratch): https://youtu.be/y62zj9ozPOM 
 
-Lecture 1 (C): https://youtu.be/3K4jWlpR4iY 
+* Lecture 1 (C): https://youtu.be/3K4jWlpR4iY 
 
-Lecture 2 (C - continued): https://youtu.be/IJNPHorTqQs 
+* Lecture 2 (C - continued): https://youtu.be/IJNPHorTqQs 
 
-Lecture 3 (Algorithms): https://youtu.be/U9o49qwa6hk 
+* Lecture 3 (Algorithms): https://youtu.be/U9o49qwa6hk 
 
-Lecture 5 (Data Structures): https://youtu.be/eZQBx8YJ6Zs 
+* Lecture 5 (Data Structures): https://youtu.be/eZQBx8YJ6Zs 
 
-Lecture 8 (Python): https://youtu.be/n_8zxTH7SvA 
+* Lecture 8 (Python): https://youtu.be/n_8zxTH7SvA 
 
-Lecture 9 (Python Continued): https://youtu.be/icOod04jYww  
+* Lecture 9 (Python Continued): https://youtu.be/icOod04jYww  
 
-Lecture 8 (Machine Learning): https://youtu.be/dgt6IfEXgDk 
+* Lecture 8 (Machine Learning): https://youtu.be/dgt6IfEXgDk 
 
- Python Programming Tutorials:(Should be refer by students who have prior knowledge of fundamentals of computer programming and wants to get acquainted with Python.) 
-
+Python Programming Tutorials:(Should be refer by students who have prior knowledge of fundamentals of computer programming and wants to get acquainted with Python.) 
  
-
 Python Tutorial for Beginners (Till Lecture 17): https://www.youtube.com/playlist?list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n 
 
  OR  
@@ -91,7 +83,7 @@ PDFs and Other notes: http://bit.ly/2zMEpRn
 
   
 
-Public Datasets:- 
+### Public Datasets:- 
 
 1. https://github.com/awesomedata/awesome-public-datasets 
 
@@ -101,7 +93,7 @@ Public Datasets:-
 
   
 
-Good ML Projects -  
+### Good ML Projects -  
 
 1. https://ml-showcase.com/ 
 
@@ -110,10 +102,7 @@ Good ML Projects -
 3. https://opensource.google.com/projects/explore/machine-learning 
 
 4. https://aiyprojects.withgoogle.com/ 
-
-  
-
-Also this - https://datacircle.io/ - Find, Buy, Sell and Exchange Data Sets easy 
+5. https://datacircle.io/ - Find, Buy, Sell and Exchange Data Sets easy 
 
   
 
@@ -126,23 +115,19 @@ Video: https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-us
 Link: https://github.com/adeshpande3/LSTM-Sentiment-Analysis  
  
 
-Transfer Learning - 
+#### Transfer Learning - 
 
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 
 
   
 
-Generative Adversarial Networks - 
+#### Generative Adversarial Networks - 
 
-( Blog ) http://bamos.github.io/2016/08/09/deep-completion/ 
+* Blog: http://bamos.github.io/2016/08/09/deep-completion/ 
 
-( On MNIST ) 
+* https://github.com/uclaacmai/Generative-Adversarial-Network-Tutorial 
 
-https://github.com/uclaacmai/Generative-Adversarial-Network-Tutorial 
-
-( Another implementation ) 
-
-https://github.com/yihui-he/GAN-MNIST/tree/master/mnist 
+* https://github.com/yihui-he/GAN-MNIST/tree/master/mnist 
 
 
 
@@ -171,7 +156,7 @@ Journals and Upcoming Conferences -  http://www.wikicfp.com/cfp/
 
     
 
-You all can start by implementing - 
+### You all can start by implementing - 
 
 1. Custome Object Detection module ( Transfer Learning and YOLO ) 
 
@@ -191,7 +176,7 @@ You all can start by implementing -
 
   
 
-For super cool projects: 
+##### For super cool projects: 
 
 1. TensorKart 
 
@@ -212,7 +197,7 @@ Deep Learning Book - https://hadrienj.github.io/posts/Deep-Learning-Book-Series-
 
 A full Deep Reinforcement Learning Book - https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view 
 
-Reinforcement Learning links :-  
+### Reinforcement Learning links :-  
 
 1. https://ai.intel.com/demystifying-deep-reinforcement-learning/ 
 
